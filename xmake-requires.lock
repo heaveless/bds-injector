@@ -1,0 +1,45 @@
+{
+    ["linux|x86_64"] = {
+        ["cmake#31fecfc4"] = {
+            repo = {
+                branch = "master",
+                commit = "bf41ce01a6c9567eb5e5dc829d32c410a1ac239e",
+                url = "https://gitlab.com/tboox/xmake-repo.git"
+            },
+            version = "3.27.7"
+        },
+        ["cxxopts#31fecfc4"] = {
+            repo = {
+                commit = "2c1bdcbf68492e27c9c0ca4491925fa98d93aff2",
+                url = "https://github.com/heaveless/xmake-repo.git"
+            },
+            version = "v3.1.1"
+        },
+        ["fmt#31fecfc4"] = {
+            repo = {
+                branch = "master",
+                commit = "bf41ce01a6c9567eb5e5dc829d32c410a1ac239e",
+                url = "https://gitlab.com/tboox/xmake-repo.git"
+            },
+            version = "10.1.1"
+        },
+        ["pe_bliss#31fecfc4"] = {
+            repo = {
+                commit = "ad0fad2f71581a49be40cdee11b054f84c26c1a2",
+                url = "https://github.com/heaveless/xmake-repo.git"
+            },
+            version = "v1.0.0"
+        },
+        ["spdlog#31fecfc4"] = {
+            repo = {
+                branch = "master",
+                commit = "bf41ce01a6c9567eb5e5dc829d32c410a1ac239e",
+                url = "https://gitlab.com/tboox/xmake-repo.git"
+            },
+            version = "v1.12.0"
+        }
+    },
+    __meta__ = {
+        version = "1.0"
+    }
+}
