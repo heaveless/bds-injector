@@ -2,10 +2,10 @@
 
 **Build project**
 ```sh
-./build.sh
+xmake -y
 ```
 
 **Run project**
 ```sh
-./build/bds_injector
+xmake run
 ```
